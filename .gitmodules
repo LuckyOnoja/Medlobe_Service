@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Medaichatpro/frontend.git
+[submodule "design"]
+	path = design
+	url = https://github.com/Medlobe/design.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Medlobe/server.git
